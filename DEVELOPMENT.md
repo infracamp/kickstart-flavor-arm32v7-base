@@ -29,3 +29,8 @@ In docker there should be following build-settings:
 | Branch | master        | /                   | testing         |
 | Tag    | `/^[0-9.]+$/` | /                   | latest          |
 | Tag    | `/^[0-9.]+$/` | /                   | {sourceref}     |
+
+
+## Update qemu-arm-static
+
+https://github.com/balena-io/qemu/releases/
